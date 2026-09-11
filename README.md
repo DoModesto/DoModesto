@@ -1,20 +1,20 @@
-# Hello, I'm Douglas 👋
+# Olá, eu sou o Douglas 👋
 
-🎓 **Systems Development Graduate (SENAI)** | 🎓 **Artificial Intelligence Undergraduate (UNIMAR)**
-💼 Intern at **FullTime Brasil**
-🎯 Focused on **Data & AI** — building intelligent and strategic solutions for real-world problems
-
----
-
-### 🚀 About Me
-
-I have hands-on experience with **programming logic, databases, and web & mobile development**. On a daily basis, I work with technologies such as **JavaScript, Python, React, React Native, Node.js, and MySQL** to build projects and solve real-world problems.
-
-My main interests are **Data and Artificial Intelligence**, and I'm constantly looking to improve my technical skills, explore new technologies, and connect with people in the tech industry.
+🎓 **Formado em Desenvolvimento de Sistemas (SENAI)** | 🎓 **Graduando em Inteligência Artificial (UNIMAR)**
+💼 Estagiário na **FullTime Brasil**
+🎯 Foco em **Dados & IA** — construindo soluções inteligentes e estratégicas para resolver problemas reais
 
 ---
 
-### 🛠️ Main Skills
+### 🚀 Sobre mim
+
+Tenho experiência prática em **lógica de programação, banco de dados e desenvolvimento web e mobile**. No dia a dia, utilizo tecnologias como **JavaScript, Python, React, React Native, Node.js e MySQL** para criar projetos e resolver problemas reais.
+
+Meu maior interesse está em **Dados e Inteligência Artificial**, e estou sempre em busca de evoluir tecnicamente, explorar novas tecnologias e me conectar com pessoas da área de tecnologia.
+
+---
+
+### 🛠️ Principais Competências
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@ My main interests are **Data and Artificial Intelligence**, and I'm constantly l
 
 ---
 
-### 📫 Let's Connect
+### 📫 Vamos nos conectar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/douglas-modesto-795a2a377/" target="_blank">
