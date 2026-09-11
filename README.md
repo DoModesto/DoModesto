@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas 👋
 
-🎓 Formado em Desenvolvimento de Sistemas (SENAI - Marília) | Graduando em Inteligência Artificial (UNIMAR)
+🎓 Formado em Desenvolvimento de Sistemas (SENAI) | Graduando em Inteligência Artificial (UNIMAR)
 💼 Estagiário na **FullTime Brasil**
 🎯 Foco em **Dados & IA** — construindo soluções inteligentes e estratégicas para o mercado
 
@@ -26,7 +26,7 @@ Meu maior interesse está em **dados e inteligência artificial**, e estou sempr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" /> <img alt="cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" /> </picture>
+
 ---
 
 ### 📫 Vamos nos conectar
