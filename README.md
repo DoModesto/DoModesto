@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas 👋
 
-🎓 **Formado em Desenvolvimento de Sistemas (SENAI)** | 🎓 **Graduando em Inteligência Artificial (UNIMAR)**
+🎓 **Formado em Técnico Desenvolvimento de Sistemas (SENAI)** | 🎓 **Graduando em Inteligência Artificial (UNIMAR)**
 💼 Estagiário na **FullTime Brasil**
 🎯 Foco em **Dados & IA** — construindo soluções inteligentes e estratégicas para resolver problemas reais
 
